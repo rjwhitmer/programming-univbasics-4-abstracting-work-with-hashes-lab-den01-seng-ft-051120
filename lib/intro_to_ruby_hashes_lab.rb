@@ -16,4 +16,5 @@ def update_counting_hash(hash, key)
   
   if hash[key] == true 
     key += 1
+  end
 end
